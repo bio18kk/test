@@ -1,0 +1,61 @@
+u {
+    color: red;
+}
+
+h1 { background-color:rgb(176, 186, 251) ;
+text-align: center;
+border-radius: 70px;
+border-color: red;
+}
+.gg{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.tt {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+e{
+    color:green;
+}
+
+.rbg {
+    width: 1200px;
+    height: 50px;
+}
+.ll {
+    background-color: black;
+    width: 1000px;
+    color: white;
+}
+.uu {
+    background-color: blue;
+    color: white;
+    width: 1000px;
+}
+ .shavkat {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+ }
+
+ .yy{
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 0px;
+ }
+ .kk{
+    background-color: green;
+    color: white;
+ }
+
+ button {
+    background-color: aqua;
+    width: 200px;
+    height: 30px;
+ }
